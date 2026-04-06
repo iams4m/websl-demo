@@ -1,0 +1,7 @@
+pillow
+numpy
+torch
+pytorch-msssim
+scikit-learn
+scikit-image
+gradio
